@@ -5,3 +5,5 @@ This contains the following codes :
 2) Basic Calculator
 3) Calculator that can process big numbers
 4) Mathematical expresion evaluator
+5) Date to day converter
+6) Prime factorizer 

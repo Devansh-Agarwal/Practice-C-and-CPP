@@ -7,3 +7,5 @@ This contains the following codes :
 4) Mathematical expresion evaluator
 5) Date to day converter
 6) Prime factorizer 
+7) Finding root of a polynomial
+8) Finding intersection of two arrays

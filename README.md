@@ -1,5 +1,5 @@
-# Practice-C
-Learning C
+# Practice-C/C++
+Learning C/C++
 This contains the following codes :
 1) Printing entire Calendar 
 2) Basic Calculator
@@ -9,3 +9,4 @@ This contains the following codes :
 6) Prime factorizer 
 7) Finding root of a polynomial
 8) Finding intersection of two arrays
+9) CacheModelling(LRU/FIFO/OPTRIMAL)

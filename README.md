@@ -10,3 +10,4 @@ This contains the following codes :
 7) Finding root of a polynomial
 8) Finding intersection of two arrays
 9) CacheModelling(LRU/FIFO/OPTRIMAL)
+10) executeCommandLineInstructionMultiProcess

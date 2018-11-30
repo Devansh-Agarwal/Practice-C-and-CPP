@@ -12,3 +12,4 @@ This contains the following codes :
 9) CacheModelling(LRU/FIFO/OPTRIMAL)
 10) executeCommandLineInstructionMultiProcess
 11) MultiProcessStatisticsCalculation
+12) MultiThreadingStatisticsCalculation
